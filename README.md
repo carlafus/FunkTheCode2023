@@ -24,7 +24,7 @@ Programación III: Java☕
 
 > ## _Organización Semanal._:
 
-```
+
 | Semana     | Delegad@                  | Estado actual |
 __________________________________________________________
 | Semana 1 | **Catriel Quintana**        | [x] EN CURSO  |
@@ -35,7 +35,7 @@ __________________________________________________________
 | Semana 6 | **Danilo Profita**          | Pendiente     |
 | Semana 7 | **Sebastián Bustamante**    | Pendiente     |
 | Semana 8 | **Matias Diaz de Otazu**    | Pendiente     |
-```
+
 
 > ## _Lenguajes Utilizados._:
 >
