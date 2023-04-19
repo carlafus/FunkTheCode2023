@@ -26,7 +26,7 @@ Programación III: Java☕
 
 ```
 | Semana     | Delegad@                  | Estado actual |
-| ---------- | --------------------------| --------------|
+__________________________________________________________
 | Semana 1 | **Catriel Quintana**        | [x] EN CURSO  |
 | Semana 2 | **Carla Fuschino**          | Pendiente     |
 | Semana 3 | **María Bárbara Herrera**   | Pendiente     |
