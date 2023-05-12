@@ -28,13 +28,14 @@ Programación III: Java☕
 | Semana     | Delegad@                  | Estado actual |
 __________________________________________________________
 | Semana 1 | **Catriel Quintana**        | [x] EN CURSO  |
-| Semana 2 | **Carla Fuschino**          | Pendiente     |
+| Semana 2 |  **Andrés Montes**          | [x] EN CURSO  |
 | Semana 3 | **María Bárbara Herrera**   | Pendiente     |
-| Semana 4 | **Nicolás Rizo Avellaneda** | Pendiente     |
-| Semana 5 | **Andrés Montes**           | Pendiente     |
-| Semana 6 | **Danilo Profita**          | Pendiente     |
-| Semana 7 | **Sebastián Bustamante**    | Pendiente     |
-| Semana 8 | **Matias Diaz de Otazu**    | Pendiente     |
+| Semana 4 |  **Carla Fuschino**         | Pendiente     |
+| Semana 5 | **Nicolás Rizo Avellaneda** | Pendiente     |
+| Semana 6 | **Andrés Montes**           | Pendiente     |
+| Semana 7 | **Danilo Profita**          | Pendiente     |
+| Semana 8 | **Sebastián Bustamante**    | Pendiente     |
+| Semana 9 | **Matias Diaz de Otazu**    | Pendiente     |
 ```
 
 > ## _Lenguajes Utilizados._:
