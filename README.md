@@ -38,6 +38,20 @@ __________________________________________________________
 | Semana 9 | **Matias Diaz de Otazu**    | Pendiente     |
 ```
 
+> ## _Links relevantes._:
+
+```
+GIT Cheatsheet:
+https://supersimpledev.github.io/references/git-github-reference.pdf
+
+Organización del proyecto:
+https://www.youtube.com/watch?v=bzHYkub5ffo&ab_channel=AndresMontes
+
+Creación de proyecto:
+https://www.youtube.com/watch?v=nOR-zkqrXfE&ab_channel=AndresMontes
+
+```
+
 > ## _Lenguajes Utilizados._:
 >
 > ![py](https://media4.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif?cid=ecf05e47vscbxnqi6yxok229ruj0sc0xhakpf7wc4n8ob62l&rid=giphy.gif&ct=g.gif)
