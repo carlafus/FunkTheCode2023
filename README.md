@@ -41,6 +41,18 @@ __________________________________________________________
 > ## _Links relevantes._:
 
 ```
+Tutoriales GITHUB
+
+pt1
+https://www.youtube.com/watch?v=hrTQipWp6co&ab_channel=SuperSimpleDev
+
+pt2:
+https://www.youtube.com/watch?v=1ibmWyt8hfw&t=10s&ab_channel=SuperSimpleDev
+
+pt3:
+https://www.youtube.com/watch?v=Q1kHG842HoI&t=8s&ab_channel=SuperSimpleDev
+
+
 GIT Cheatsheet:
 https://supersimpledev.github.io/references/git-github-reference.pdf
 
@@ -49,6 +61,8 @@ https://www.youtube.com/watch?v=bzHYkub5ffo&ab_channel=AndresMontes
 
 Creación de proyecto:
 https://www.youtube.com/watch?v=nOR-zkqrXfE&ab_channel=AndresMontes
+
+
 
 ```
 
