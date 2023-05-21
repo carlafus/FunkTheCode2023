@@ -1,4 +1,4 @@
-from NumerosIgualesExcepciones import NumerosIgualesExcepciones
+'''from NumerosIgualesExcepciones import NumerosIgualesExcepciones
 
 resultado = None
 
@@ -22,9 +22,9 @@ finally: # siempre se va a ejecutar
 
 print(f'el resultado es: {resultado}')
 print('seguimos...')
+'''
 
 
-""""
 #codigo Andy
 from NumerosIgualesException import NumerosIgualesException
 resultado = None
@@ -57,4 +57,4 @@ print(f'El resultado es {resultado}')
 print('seguimos...') 
 
 #prueba de GIT FORK
-"""
+
