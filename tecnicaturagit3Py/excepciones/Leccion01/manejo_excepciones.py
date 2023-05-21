@@ -1,4 +1,4 @@
-'''from NumerosIgualesExcepciones import NumerosIgualesExcepciones
+from NumerosIgualesExcepciones import NumerosIgualesExcepciones
 
 resultado = None
 
@@ -22,11 +22,11 @@ finally: # siempre se va a ejecutar
 
 print(f'el resultado es: {resultado}')
 print('seguimos...')
+
+
 '''
-
-
-#codigo Andy-------------------------------------------------------------
-from NumerosIgualesExcepciones import NumerosIgualesExcepciones
+#codigo Andy
+from NumerosIgualesException import NumerosIgualesException
 resultado = None
 
 resultado = None
@@ -36,7 +36,7 @@ try:
     b = int (input('Digite el primer número: '))
 
     if a == b:
-        raise NumerosIgualesExcepciones('Son números iguales')
+        raise NumerosIgualesException('Son números iguales')
     resultado = a / b
 except TypeError as e:
     print(f'TypeError - ocurrió un error: {type(e)}')
@@ -56,5 +56,5 @@ finally:
 print(f'El resultado es {resultado}')
 print('seguimos...') 
 
-#--------------------------------------------------------------------------
-
+#prueba de GIT FORK
+'''
