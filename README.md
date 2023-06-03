@@ -25,17 +25,17 @@ Programación III: Java☕
 > ## _Organización Semanal._:
 
 ```
-| Semana     | Delegad@                  | Estado actual |
-__________________________________________________________
-| Semana 1 | **Catriel Quintana**        | [x] EN CURSO  |
-| Semana 2 |  **Andrés Montes**          | [x] EN CURSO  |
-| Semana 3 | **María Bárbara Herrera**   | Pendiente     |
-| Semana 4 |  **Carla Fuschino**         | Pendiente     |
-| Semana 5 | **Nicolás Rizo Avellaneda** | Pendiente     |
-| Semana 6 | **Andrés Montes**           | Pendiente     |
-| Semana 7 | **Danilo Profita**          | Pendiente     |
-| Semana 8 | **Sebastián Bustamante**    | Pendiente     |
-| Semana 9 | **Matias Diaz de Otazu**    | Pendiente     |
+| Semana     | Delegad@                  | 
+_________________________________________|
+| Semana 1 | **Catriel Quintana**        | 
+| Semana 2 |  **Andrés Montes**          | 
+| Semana 3 | **María Bárbara Herrera**   | 
+| Semana 4 |  **Carla Fuschino**         | 
+| Semana 5 | **Nicolás Rizo Avellaneda** | 
+| Semana 6 | **Andrés Montes**           | 
+| Semana 7 | **Danilo Profita**          | 
+| Semana 8 | **Sebastián Bustamante**    | 
+| Semana 9 | **Matias Diaz de Otazu**    | 
 ```
 
 > ## _Links relevantes._:
