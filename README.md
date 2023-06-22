@@ -33,9 +33,11 @@ _________________________________________|
 | Semana 4 |  **Carla Fuschino**         | 
 | Semana 5 | **Nicolás Rizo Avellaneda** | 
 | Semana 6 | **Andrés Montes**           | 
-| Semana 7 | **Danilo Profita**          | 
+| Semana 7 | **Catriel Quintana**        | 
 | Semana 8 | **Sebastián Bustamante**    | 
-| Semana 9 | **Matias Diaz de Otazu**    | 
+| Semana 9 | **Matias Diaz de Otazu**    |
+|Semana  10| **Danilo Profita**          |
+|Semana  11| **Danilo Profita**          | 
 ```
 
 > ## _Links relevantes._:
