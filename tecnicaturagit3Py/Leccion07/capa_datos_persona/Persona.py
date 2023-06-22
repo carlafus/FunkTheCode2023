@@ -1,7 +1,8 @@
-from Logger_base import log
+from logger_base import log
+
 
 class Persona:
-    def __init__(self, id_persona = None, nombre = None, apellido  = None, email = None):
+    def __init__(self, id_persona=None, nombre=None, apellido=None, email=None):
         self._id_persona = id_persona
         self._nombre = nombre
         self._apellido = apellido
@@ -15,25 +16,25 @@ class Persona:
             Email: {self._email}
         '''
 
-    #metodos getters and setters
+    # Metodos Getters and Setters
     @property
-    def id_persona(self, id_persona):
-        self._id_persona = id_persona
+    def id_persona(self):
+        return self._id_persona
 
     @id_persona.setter
     def id_persona(self, id_persona):
         self._id_persona = id_persona
 
     @property
-    def nombre(self, nombre):
-        self._nombre = nombre
+    def nombre(self):
+        return self._nombre
 
     @nombre.setter
     def nombre(self, nombre):
         self._nombre = nombre
 
     @property
-    def apellido(self, nombre):
+    def apellido(self):
         return self._apellido
 
     @apellido.setter
@@ -42,16 +43,18 @@ class Persona:
 
     @property
     def email(self):
-        return self.email
+        return self._email
 
     @email.setter
     def email(self, email):
         self._email = email
 
-if __name__ == "__main__":
-    persona1 = Persona(1, "Juan", "Perez", "jperez@mail..com")
+
+if __name__ == '__main__':
+    persona1 = Persona(1, 'Juan', 'Perez', 'jperez@mail.com')
     log.debug(persona1)
-    persona2 = Persona(nombre= "Jose", apellido="Lepez", email="ljose@mail.com")
+    persona2 = Persona(nombre='Jose', apellido='Lopez', email='jlopez@mail.com')
     log.debug(persona2)
-    persona1 = Persona(id_persona = 1)
+    persona1 = Persona(id_persona=1)
     log.debug(persona1)
+
