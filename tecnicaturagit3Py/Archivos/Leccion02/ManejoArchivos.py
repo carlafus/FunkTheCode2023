@@ -3,11 +3,12 @@ class ManejoArchivos:
         self.nombre = nombre
 
     def __enter__(self):
-        print('obtenemos el recurso'.center(50, '-'))
-        self.nombre = open(self.nombre,'r', encoding=' utf8')# encapsulamos el codigo dentro del metodo
+        print('Obtenemos el recurso'.center(50, '-'))
+        # Encapsulamos el codigo dentro del metodo
+        self.nombre = open(self.nombre, 'r', encoding='utf8')
         return self.nombre
 
-    def __exit__(self, tipo_exception, valor_exception, traza_error):
+    def __exit__(self, exc_type, exc_val, exc_tb):
         print('cerramos el recurso'.center(50, '-'))
         if self.nombre:
-            self.nombre.close() # cerramos el archivo
+            self.nombre.close()  # cerramos el archivo
