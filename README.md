@@ -18,26 +18,26 @@
 > ## _Materias._:
 
 ```
-Laboratorio  III: Python y JavaScript 🌐🐍
-Programación III: Java☕
+Laboratorio  III: Python y JavaScript 🐍 🌐 
+Programación III: Java ☕
 ```
 
 > ## _Organización Semanal._:
 
 ```
-| Semana     | Delegad@                  | 
-_________________________________________|
-| Semana 1 | **Catriel Quintana**        | 
-| Semana 2 |  **Andrés Montes**          | 
-| Semana 3 | **María Bárbara Herrera**   | 
-| Semana 4 |  **Carla Fuschino**         | 
-| Semana 5 | **Nicolás Rizo Avellaneda** | 
-| Semana 6 | **Andrés Montes**           | 
-| Semana 7 | **Catriel Quintana**        | 
-| Semana 8 | **Sebastián Bustamante**    | 
-| Semana 9 | **Matias Diaz de Otazu**    |
-|Semana  10| **Danilo Profita**          |
-|Semana  11| **Danilo Profita**          | 
+| Semana    | Delegad@                    | 
+__________________________________________|
+| Semana 01 | **Catriel Quintana**        | 
+| Semana 02 | **Andrés Montes**           | 
+| Semana 03 | **María Bárbara Herrera**   | 
+| Semana 04 | **Carla Fuschino**          | 
+| Semana 05 | **Nicolás Rizo Avellaneda** | 
+| Semana 06 | **Andrés Montes**           | 
+| Semana 07 | **Catriel Quintana**        | 
+| Semana 08 | **Sebastián Bustamante**    | 
+| Semana 09 | **Matias Diaz de Otazu**    |
+| Semana 10 | **Danilo Profita**          |
+| Semana 11 | **Danilo Profita**          | 
 ```
 
 > ## _Links relevantes._:
