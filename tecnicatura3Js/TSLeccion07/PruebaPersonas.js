@@ -38,7 +38,10 @@ class Persona{
     }
 
     toString(){
-        return `${this._idPersona} ${this._nombre} ${this._apellido} ${this._edad}`;
+        return `${this._idPersona}
+                ${this._nombre}
+                ${this._apellido}
+                ${this._edad}`;
     }
 }
 
@@ -53,7 +56,7 @@ class Empleado extends Persona{
     }
 
     get idEmpleado(){
-        return this._idEmpleado
+        return this._idEmpleado;
     }
 
     get sueldo(){
@@ -107,15 +110,18 @@ let Persona1 = new Persona("Juan", "Perez",32);
 console.log(Persona1.toString());
 
 let persona2 = new Persona('Carla','Ortega', 22);
-console.log(persona2.toString())
+console.log(persona2.toString());
 
-//prueba clase empleado
+//Prueba clase Empleado
 let empleado1 = new Empleado('Pedro', 'Roman', 18, 5000);
 console.log(empleado1.toString());
 
 let empleado2 = new Empleado ('Jonas', 'Torres', 30, 7000);
 console.log(empleado2.toString());
 
-// prueba clase Cliente
+// Prueba clase Cliente
 let cliente1 = new Cliente('miguel', 'zala', 29, new Date());
-console.log(cliente1.toString())
+console.log(cliente1.toString());
+
+let cliente2 = new Cliente('Natalia', 'Ortega', 22, new Date());
+console.log(cliente1.toString());
