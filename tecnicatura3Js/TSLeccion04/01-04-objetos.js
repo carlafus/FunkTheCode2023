@@ -37,7 +37,7 @@ persona2.telefono = '549248756'
 console.log(persona2.telefono);
 
 console.log("creamos un nuevo objeto");
-console.log(persona['apellido']); // accedemos como si fuera un arreglo 
+console.log(persona['apellido']); // Accedemos como si fuera un arreglo 
 
 console.log("usamos el ciclo for in")
 //for in y accedemos al objeto como si fuera un arreglo
@@ -131,6 +131,28 @@ let miFunction2 = function(){}; // notacion simplificada y recomendada
 //uso de prototype
 Persona3.prototype.telefono = "156879865";
 console.log(padre);
+console.log(madre.telefono);
+console.log (madre.telefono);'2604591803';
+
+//Uso de call
+let persona4 = {
+    nombre: 'Ricardo',
+    apellido: 'lopez',
+    nombreCompleto2: function(titulo, telefono){
+        return this.nombre+' '+this.apellido+ ''+telefono;
+      // return this.nombre+' '+this.apellido;
+
+    }
+}
+let persona5 = {
+    nombre: 'Ruben',
+    apellido: 'Lara',
+}
+
+console.log(persona4.nombreCompleto2('Lic.','5401457852132'));
+console.log(persona4.nombreCompleto2.call(persona5,'Ing.', '542677424855'));
 
 
-
+//Metodo Apply
+let arreglo = ['Ing.', '54267851231'];
+console.log(persona4.nombreCompleto2.apply(persona5,arreglo));
